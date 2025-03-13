@@ -1,0 +1,18 @@
+express
+mongoose
+dotenv
+jsonwebtoken
+bcryptjs
+cookie-parser
+cloudinary
+socket.io
+cors
+react-router-dom
+react-hot-toast
+
+# Dev Dependencies
+nodemon (dev)
+
+install the Dependencies
+npm list --depth=0 || npm list --depth=0 --json > dependencies.json
+
